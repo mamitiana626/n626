@@ -1,0 +1,15 @@
+.voiture {
+    width: 250px;
+    height: 85px;
+    background: red;
+    position: relative;
+    transform: rotate(180deg);
+}
+
+#haut {
+    display: none;
+}
+
+#bas {
+    display: none;
+}
